@@ -1,0 +1,13 @@
+/dtest
+dtest.so
+dtest.dylib
+dtest.dll
+dtest.a
+dtest.lib
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.csv
+*.png
